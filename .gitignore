@@ -1,0 +1,5 @@
+*.o
+.vscode
+.idea
+*.vgcore
+coding-style-reports.log
